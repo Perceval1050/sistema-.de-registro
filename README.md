@@ -5,3 +5,5 @@
 Para ejecuta el sistema, debes poner: 
 
 ```npm install react```
+
+sistema de ergistro 2
